@@ -1,6 +1,6 @@
 # Hi 👋, I'm Riskan Ahamed
 
-### Junior Software Developer | Full-Stack Web Developer
+### Junior Software Developer |
 
 💻 Passionate about building clean, efficient, and user-friendly web applications.
 
@@ -10,7 +10,6 @@
 
 - 🎓 Student at Mars Tech
 - 🌍 Based in Ampara, Sri Lanka
-- 💡 Interested in Full-Stack Development & Cybersecurity
 - 🌱 Currently improving my skills in React, Node.js, and Java
 - 📫 Reach me at: **riskanahamed.work@gmail.com**
 
@@ -64,5 +63,5 @@ Personal portfolio showcasing my projects and skills.
 ⭐ Thanks for visiting my profile!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Riskan+Ahamed;Full-Stack+Developer;React+%7C+Node.js+%7C+Java;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Riskan+Ahamed;React+%7C+Node.js+%7C+Java;Always+Learning+New+Technologies" />
 </p>
