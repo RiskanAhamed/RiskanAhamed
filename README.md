@@ -1,6 +1,6 @@
 # Hi 👋, I'm Riskan Ahamed
 
-### Junior Software Developer |
+### Junior Software Developer 
 
 💻 Passionate about building clean, efficient, and user-friendly web applications.
 
